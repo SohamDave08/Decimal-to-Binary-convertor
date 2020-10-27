@@ -13,7 +13,7 @@ We need to iterate the number by dividing it by 2 everytime and storing the rema
 
 ## Libraries Used
 
->#include <iostream>
->#include <stack>
+>#include "iostream"
+>#include "stack"
 
 ### Thanks For Reading
